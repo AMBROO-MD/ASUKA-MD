@@ -1,10 +1,10 @@
 {
-  "name": "IRIS-MD",
+  "name": "ASUKA-MD",
   "version": "1.2.7",
   "description": "Simple lightweight whatsapp bot",
-  "logo": "https://imgur.com/D60nScQ.jpg",
+  "logo": "https://i.imgur.com/EzM9alz.jpeg",
   "keywords": ["whatsapp", "bot", "md", "multi-device"],
-  "repository": "https://github.com/V-E-N-O-X/IRIS-MD",
+  "repository": "https://github.com/AMBROO-MD/ASUKA-MD",
   "stack": "container",
   "env": {
     "SESSION_ID": {
@@ -29,12 +29,12 @@
     "SUDO": {
       "description": "Enter Numbers With Country Code Without + Separated With , To Add More Numbers",
       "required": true,
-      "value": "8801975492880"
+      "value": "919656986105"
     },
     "INFO": {
       "description": "Enter the Type of pic & ownername & botname u want",
       "required": false,
-      "value": "ɪʀɪꜱ-ᴍᴅ;VᴇɴᴏxSᴇʀ;https://imgur.com/D60nScQ.jpg"
+      "value": "ﾑꜱᴜᴋᴀ;ᴍᴅ;https://i.imgur.com/EzM9alz.jpeg"
     },
     "AUTO_STATUS_VIEW": {
       "description": "true or false",
